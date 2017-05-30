@@ -180,7 +180,7 @@ Fouttolerantie: foutje? Andere weg kiezen.
 
 Het internet heeft een hiërarchische gelaagde structuur.
 
-### Jet verstrekken van QoS
+### Het verstrekken van QoS
 
 **Tijdgevoelige communicatie**
 
